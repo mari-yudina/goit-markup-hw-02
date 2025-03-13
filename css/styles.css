@@ -11,10 +11,6 @@ ul {
 a {
   text-decoration: none;
 }
-a:hover,
-a:focus {
-  color: #404bbf;
-}
 
 .logo {
   font-family: "Raleway", sans-serif;
@@ -50,17 +46,26 @@ a:focus {
 }
 .section-one-subtitel {
   font-size: 56px;
-  line-height: 1.071;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
   font-weight: 500;
 }
+.section-one-btn:hover,
+.section-one-btn:focus {
+  color: #404bbf;
+}
 .section-one-btn {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   justify-content: flex-start;
 
   color: #fff;
-
+  cursor: pointer;
   background: #4d5ae5;
 }
 .advantages-subtitel {
