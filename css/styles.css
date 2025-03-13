@@ -31,10 +31,6 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.nav-linc-one:hover,
-.nav-linc-one:focus {
-  color: #404bbf;
-}
 
 .one-contact-linc {
   font-style: normal;
