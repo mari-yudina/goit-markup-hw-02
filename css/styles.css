@@ -46,11 +46,11 @@ a {
 }
 .section-one-subtitel {
   font-size: 56px;
+  font-weight: 500;
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-  font-weight: 500;
 }
 .section-one-btn:hover,
 .section-one-btn:focus {
