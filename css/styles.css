@@ -24,10 +24,10 @@ a:focus {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #2e2f42;
-}
-span {
   color: #4d5ae5;
+}
+.logo-header {
+  color: #2e2f42;
 }
 .nav-linc {
   font-size: 16px;
@@ -54,6 +54,7 @@ span {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
+  font-weight: 500;
 }
 .section-one-btn {
   justify-content: flex-start;
@@ -111,8 +112,11 @@ span {
 
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #4d5ae5;
+}
+.logo-span {
   color: #f4f4fd;
 }
