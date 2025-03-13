@@ -11,6 +11,10 @@ ul {
 a {
   text-decoration: none;
 }
+a:hover,
+a:focus {
+  color: #404bbf;
+}
 
 .logo {
   font-family: "Raleway", sans-serif;
@@ -31,11 +35,15 @@ span {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+.one-contact-linc {
+  font-style: normal;
+}
 .contact-linc {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 .section-one {
   background: #2e2f42;
