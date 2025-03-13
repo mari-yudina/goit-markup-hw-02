@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
+  color: #434455;
 }
 /* -------header----- */
 ul {
@@ -34,7 +35,6 @@ span {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 .section-one {
   width: 1440px;
@@ -73,7 +73,6 @@ span {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 .our-team-subtitell {
   font-weight: 700;
@@ -96,7 +95,6 @@ span {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #434455;
 }
 .footer-text {
   font-weight: 400;
