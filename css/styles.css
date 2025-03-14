@@ -77,6 +77,9 @@ a {
   cursor: pointer;
   background: #4d5ae5;
 }
+.advantages-list {
+  background-color: #ffffff;
+}
 .advantages-subtitel {
   font-weight: 500;
   font-size: 20px;
