@@ -77,9 +77,7 @@ a {
   cursor: pointer;
   background: #4d5ae5;
 }
-.our-team .our-team-list {
-  background-color: #ffffff !important;
-}
+
 .advantages-subtitel {
   font-weight: 500;
   font-size: 20px;
@@ -93,8 +91,9 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.our-team {
-  background-color: #f4f4fd;
+
+.our-team-pfoto {
+  background-color: #ffffff;
 }
 .our-team-subtitell {
   font-weight: 700;
