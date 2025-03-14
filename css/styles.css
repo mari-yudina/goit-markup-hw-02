@@ -8,7 +8,9 @@ body {
 ul {
   list-style-type: none;
 }
-
+a {
+  text-decoration: none;
+}
 .logo {
   font-family: "Raleway", sans-serif;
 
@@ -21,6 +23,10 @@ ul {
 }
 .logo-header {
   color: #2e2f42;
+}
+.nav-linc-one:hover,
+.nav-linc-one:focus {
+  color: #404bbf;
 }
 .nav-linc {
   font-size: 16px;
@@ -53,6 +59,7 @@ ul {
 .section-one-btn:hover,
 .section-one-btn:focus {
   color: #404bbf;
+  background-color: #404bbf;
 }
 .section-one-btn {
   font-family: "Roboto", sans-serif;
@@ -67,6 +74,7 @@ ul {
   background: #4d5ae5;
 }
 .advantages-subtitel {
+  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -78,18 +86,24 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.our-team {
+  background-color: #f4f4fd;
+}
 .our-team-subtitell {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
 }
 .our-team-subtitel {
+  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
 }
