@@ -24,8 +24,8 @@ a {
 .logo-header {
   color: #2e2f42;
 }
-.nav-linc-one:hover,
-.nav-linc-one:focus {
+.nav-linc:hover,
+.nav-linc:focus {
   color: #404bbf;
 }
 .nav-linc {
@@ -37,6 +37,10 @@ a {
 
 .one-contact-linc {
   font-style: normal;
+}
+.contact-linc:hover,
+.contact-linc:focus {
+  color: #404bbf;
 }
 .contact-linc {
   font-weight: 400;
