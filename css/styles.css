@@ -78,7 +78,7 @@ a {
   background: #4d5ae5;
 }
 .our-team .our-team-list {
-  background-color: #ffffff;
+  background-color: #ffffff !important;
 }
 .advantages-subtitel {
   font-weight: 500;
