@@ -91,7 +91,9 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
+.our-team {
+  background-color: #f4f4fd;
+}
 .our-team-pfoto {
   background-color: #ffffff;
 }
